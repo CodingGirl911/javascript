@@ -1,0 +1,3 @@
+let email = ninonazgaidze@gmail.com;
+
+let result = email.lastindexof('n')
